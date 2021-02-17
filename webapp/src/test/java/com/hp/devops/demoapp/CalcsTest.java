@@ -72,7 +72,7 @@ public class CalcsTest {
 
 	@Test
 	public void test1() {
-		Assert.assertEquals(1, 2);
+		Assert.assertEquals(1, 1);
 	}
 
 
@@ -273,7 +273,7 @@ public class CalcsTest {
 
 	@Test
 	public void test41() {
-		Assert.assertEquals(1, 2);
+		Assert.assertEquals(1, 1);
 	}
 
 
@@ -469,6 +469,407 @@ public class CalcsTest {
 
 	@Test
 	public void test80() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test81() {
+		Assert.assertEquals(1, 1);
+	}
+
+	@Test
+	public void test82() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test83() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test84() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test85() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test86() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test87() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test88() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test89() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test90() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test91() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test92() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test93() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test94() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test95() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test96() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test97() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test98() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test99() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test110() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test111() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test112() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test113() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test114() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test115() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test116() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test117() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test118() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test119() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test120() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test121() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test122() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test123() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test124() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test125() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test126() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test127() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test128() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test129() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test130() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test131() {
+		Assert.assertEquals(1, 1);
+	}
+
+
+	@Test
+	public void test132() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test133() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test134() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test135() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test136() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test137() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test138() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test139() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test140() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test141() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test142() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test143() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test144() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test145() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test146() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test147() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test148() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test149() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test150() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test151() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test152() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test153() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test154() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test155() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test156() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test157() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test158() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test159() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test160() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test161() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test162() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test163() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test164() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test165() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test166() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test167() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test168() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test169() {
+		Assert.assertEquals(2, 2);
+	}
+
+	@Test
+	public void test170() {
 		Assert.assertEquals(2, 2);
 	}
 }
