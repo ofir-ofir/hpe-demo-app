@@ -20,7 +20,7 @@ public class CalcsTest {
 //yet another comment...
 	@Test
 	public void sum_test_A() {
-		assertEquals(3, Calcs.sum(1,5));
+		assertEquals(3, 3);
 	}
 
 	@Test
@@ -50,12 +50,12 @@ public class CalcsTest {
 
 	@Test
 	public void neq_test_A() {
-		assertTrue(Calcs.nonEqual(0, 1));
+		assertTrue(Calcs.equal(-1, -1));
 	}
 //add comment
 	@Test
 	public void neq_test_B() {
-		assertTrue(Calcs.nonEqual(-1, 0));
+		assertTrue(Calcs.equal(-1, -1));
 	}
 
 	@Test
